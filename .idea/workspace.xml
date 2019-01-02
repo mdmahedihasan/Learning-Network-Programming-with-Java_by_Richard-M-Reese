@@ -4,8 +4,45 @@
     <list default="true" id="88c3dc64-645f-469a-86d8-b08d82e8b26d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Learning Network Programming with Java_Richard M Reese.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Network Programming with Java_Richard M Reese.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/META-INF/Learning Network Programming with Java_Richard M Reese.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter3/Chapter3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter3/Chapter3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter1/Chapter1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter1/MulticastClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter1/MulticastServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter1/SSLClientSocket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter1/SSLServerSocket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter1/SimpleEchoClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter1/SimpleEchoServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter1/ThreadedEchoServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter1/UDPClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter1/UDPServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter2/Chapter2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter3/AsynchronousClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter3/AsynchronousServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter3/Chapter3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter3/ChatClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter3/ChatServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter3/ClientHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter3/HelperMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter3/PartsClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter3/PartsServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter3/ServerSocketChannelTimeServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter3/SocketChannelTimeClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter4/ClientHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter4/Example.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter4/HTTPClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter4/HttpURLConnectionExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter4/Server$DetailHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter4/Server$IndexHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter4/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter4/Servlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter4/WebServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/test/Jam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/test/Krit$1BiCycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/test/Krit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/test/T.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/test/Test117.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/test/Test89.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/test/Url.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/test/test1.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,7 +52,79 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter5_peer_to_peer_networks/Chapter5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#193#194#0" expanded="true" />
+                <element signature="e#222#223#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter5_peer_to_peer_networks/JDHTExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter5_peer_to_peer_networks/JDHTClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chapter5_peer_to_peer_networks/PastryExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="25" column="81" lean-forward="true" selection-start-line="25" selection-start-column="81" selection-end-line="25" selection-end-column="81" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter5_peer_to_peer_networks/FreePastryApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="23" column="66" lean-forward="true" selection-start-line="23" selection-start-column="66" selection-end-line="23" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter5_peer_to_peer_networks/PastryMessage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -65,6 +174,12 @@
         <option value="$PROJECT_DIR$/src/test/Krit.java" />
         <option value="$PROJECT_DIR$/src/test/Test117.java" />
         <option value="$PROJECT_DIR$/src/chapter4/HttpURLConnectionExample.java" />
+        <option value="$PROJECT_DIR$/src/chapter5_peer_to_peer_networks/Chapter5.java" />
+        <option value="$PROJECT_DIR$/src/chapter5_peer_to_peer_networks/JDHTExample.java" />
+        <option value="$PROJECT_DIR$/src/chapter5_peer_to_peer_networks/JDHTClient.java" />
+        <option value="$PROJECT_DIR$/src/chapter5_peer_to_peer_networks/PastryMessage.java" />
+        <option value="$PROJECT_DIR$/src/chapter5_peer_to_peer_networks/FreePastryApplication.java" />
+        <option value="$PROJECT_DIR$/src/chapter5_peer_to_peer_networks/PastryExample.java" />
       </list>
     </option>
   </component>
@@ -98,7 +213,7 @@
               <item name="Learning Network Programming with Java_Richard M Reese" type="b2602c69:ProjectViewProjectNode" />
               <item name="Learning Network Programming with Java_Richard M Reese" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter4" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter5_peer_to_peer_networks" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -111,8 +226,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546366290327" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546416598977" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../z_java_3d/FreePastry-2.1.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -131,20 +246,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HttpURLConnectionExample">
+  <component name="RunManager" selected="Application.PastryExample">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter4.Example" />
+    <configuration name="Chapter5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter5_peer_to_peer_networks.Chapter5" />
       <module name="Learning Network Programming with Java_Richard M Reese" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter4.*" />
+          <option name="PATTERN" value="chapter5_peer_to_peer_networks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,13 +281,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter4.Server" />
+    <configuration name="JDHTClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter5_peer_to_peer_networks.JDHTClient" />
       <module name="Learning Network Programming with Java_Richard M Reese" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter4.*" />
+          <option name="PATTERN" value="chapter5_peer_to_peer_networks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,13 +295,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test117" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Test117" />
+    <configuration name="JDHTExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter5_peer_to_peer_networks.JDHTExample" />
       <module name="Learning Network Programming with Java_Richard M Reese" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="chapter5_peer_to_peer_networks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,13 +309,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test89" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Test89" />
+    <configuration name="PastryExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter5_peer_to_peer_networks.PastryExample" />
       <module name="Learning Network Programming with Java_Richard M Reese" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="chapter5_peer_to_peer_networks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -229,19 +344,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Example" />
-      <item itemvalue="Application.Server" />
-      <item itemvalue="Application.Test89" />
-      <item itemvalue="Application.Test117" />
       <item itemvalue="Application.HttpURLConnectionExample" />
+      <item itemvalue="Application.Chapter5" />
+      <item itemvalue="Application.JDHTExample" />
+      <item itemvalue="Application.JDHTClient" />
+      <item itemvalue="Application.PastryExample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PastryExample" />
+        <item itemvalue="Application.JDHTClient" />
+        <item itemvalue="Application.JDHTExample" />
+        <item itemvalue="Application.Chapter5" />
         <item itemvalue="Application.HttpURLConnectionExample" />
-        <item itemvalue="Application.Server" />
-        <item itemvalue="Application.Test117" />
-        <item itemvalue="Application.Test89" />
-        <item itemvalue="Application.Example" />
       </list>
     </recent_temporary>
   </component>
@@ -280,17 +395,19 @@
       <workItem from="1545354717143" duration="1615000" />
       <workItem from="1545759448663" duration="5894000" />
       <workItem from="1546350073193" duration="2137000" />
-      <workItem from="1546363576695" duration="2538000" />
+      <workItem from="1546363576695" duration="11916000" />
+      <workItem from="1546414301057" duration="3038000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109880000" />
+    <option name="totallyTimeSpent" value="122296000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24058416" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24058416" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -299,7 +416,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36526945" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36526945" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -674,6 +791,65 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5_peer_to_peer_networks/Chapter5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5_peer_to_peer_networks/JDHTExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5_peer_to_peer_networks/JDHTClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5_peer_to_peer_networks/PastryMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5_peer_to_peer_networks/FreePastryApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="23" column="66" lean-forward="true" selection-start-line="23" selection-start-column="66" selection-end-line="23" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5_peer_to_peer_networks/PastryExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="25" column="81" lean-forward="true" selection-start-line="25" selection-start-column="81" selection-end-line="25" selection-end-column="81" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
