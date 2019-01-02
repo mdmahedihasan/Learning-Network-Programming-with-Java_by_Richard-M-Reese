@@ -3,46 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="88c3dc64-645f-469a-86d8-b08d82e8b26d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning Network Programming with Java_Richard M Reese.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Learning Network Programming with Java_Richard M Reese.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter1/Chapter1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter1/MulticastClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter1/MulticastServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter1/SSLClientSocket.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter1/SSLServerSocket.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter1/SimpleEchoClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter1/SimpleEchoServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter1/ThreadedEchoServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter1/UDPClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter1/UDPServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter2/Chapter2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter3/AsynchronousClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter3/AsynchronousServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter3/Chapter3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter3/ChatClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter3/ChatServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter3/ClientHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter3/HelperMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter3/PartsClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter3/PartsServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter3/ServerSocketChannelTimeServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter3/SocketChannelTimeClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter4/ClientHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter4/Example.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter4/HTTPClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter4/HttpURLConnectionExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter4/Server$DetailHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter4/Server$IndexHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter4/Server.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter4/Servlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/chapter4/WebServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/test/Jam.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/test/Krit$1BiCycle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/test/Krit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/test/T.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/test/Test117.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/test/Test89.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/test/Url.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning Network Programming with Java_Richard M Reese/test/test1.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,73 +12,30 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter5_peer_to_peer_networks/Chapter5.java">
+        <entry file="file://$PROJECT_DIR$/src/chapter6_udp_and_multicasting/AudioUDPServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+            <state relative-caret-position="65">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#193#194#0" expanded="true" />
-                <element signature="e#222#223#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter5_peer_to_peer_networks/JDHTExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter5_peer_to_peer_networks/JDHTClient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#2129#2130#0" expanded="true" />
+                <element signature="e#2164#2165#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chapter5_peer_to_peer_networks/PastryExample.java">
+        <entry file="file://$PROJECT_DIR$/src/chapter6_udp_and_multicasting/AudioUDPClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="25" column="81" lean-forward="true" selection-start-line="25" selection-start-column="81" selection-end-line="25" selection-end-column="81" />
+            <state relative-caret-position="179">
+              <caret line="58" column="13" lean-forward="true" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter5_peer_to_peer_networks/FreePastryApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="23" column="66" lean-forward="true" selection-start-line="23" selection-start-column="66" selection-end-line="23" selection-end-column="66" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter5_peer_to_peer_networks/PastryMessage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#2594#2595#0" expanded="true" />
+                <element signature="e#2629#2630#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -180,6 +97,16 @@
         <option value="$PROJECT_DIR$/src/chapter5_peer_to_peer_networks/PastryMessage.java" />
         <option value="$PROJECT_DIR$/src/chapter5_peer_to_peer_networks/FreePastryApplication.java" />
         <option value="$PROJECT_DIR$/src/chapter5_peer_to_peer_networks/PastryExample.java" />
+        <option value="$PROJECT_DIR$/src/chapter6_udp_and_multicasting/UDPServer.java" />
+        <option value="$PROJECT_DIR$/src/chapter6_udp_and_multicasting/UDPClient.java" />
+        <option value="$PROJECT_DIR$/src/chapter6_udp_and_multicasting/UDPEchoServer.java" />
+        <option value="$PROJECT_DIR$/src/chapter6_udp_and_multicasting/UDPEchoClient.java" />
+        <option value="$PROJECT_DIR$/src/chapter6_udp_and_multicasting/UDPMulticastServer.java" />
+        <option value="$PROJECT_DIR$/src/chapter6_udp_and_multicasting/UDPMulticastClient.java" />
+        <option value="$PROJECT_DIR$/src/chapter6_udp_and_multicasting/UDPDatagramMulticastServer.java" />
+        <option value="$PROJECT_DIR$/src/chapter6_udp_and_multicasting/UDPDatagramMulticastClient.java" />
+        <option value="$PROJECT_DIR$/src/chapter6_udp_and_multicasting/AudioUDPServer.java" />
+        <option value="$PROJECT_DIR$/src/chapter6_udp_and_multicasting/AudioUDPClient.java" />
       </list>
     </option>
   </component>
@@ -197,6 +124,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -213,20 +142,18 @@
               <item name="Learning Network Programming with Java_Richard M Reese" type="b2602c69:ProjectViewProjectNode" />
               <item name="Learning Network Programming with Java_Richard M Reese" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter5_peer_to_peer_networks" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter6_udp_and_multicasting" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546416598977" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546453244372" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../z_java_3d/FreePastry-2.1.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -246,20 +173,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PastryExample">
+  <component name="RunManager" selected="Application.AudioUDPClient">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Chapter5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter5_peer_to_peer_networks.Chapter5" />
+    <configuration name="AudioUDPClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6_udp_and_multicasting.AudioUDPClient" />
       <module name="Learning Network Programming with Java_Richard M Reese" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter5_peer_to_peer_networks.*" />
+          <option name="PATTERN" value="chapter6_udp_and_multicasting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -267,13 +194,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HttpURLConnectionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter4.HttpURLConnectionExample" />
+    <configuration name="AudioUDPServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6_udp_and_multicasting.AudioUDPServer" />
       <module name="Learning Network Programming with Java_Richard M Reese" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter4.*" />
+          <option name="PATTERN" value="chapter6_udp_and_multicasting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -281,13 +208,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JDHTClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter5_peer_to_peer_networks.JDHTClient" />
+    <configuration name="UDPDatagramMulticastClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6_udp_and_multicasting.UDPDatagramMulticastClient" />
       <module name="Learning Network Programming with Java_Richard M Reese" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter5_peer_to_peer_networks.*" />
+          <option name="PATTERN" value="chapter6_udp_and_multicasting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -295,13 +222,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JDHTExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter5_peer_to_peer_networks.JDHTExample" />
+    <configuration name="UDPDatagramMulticastServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6_udp_and_multicasting.UDPDatagramMulticastServer" />
       <module name="Learning Network Programming with Java_Richard M Reese" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter5_peer_to_peer_networks.*" />
+          <option name="PATTERN" value="chapter6_udp_and_multicasting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -309,13 +236,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PastryExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter5_peer_to_peer_networks.PastryExample" />
+    <configuration name="UDPMulticastClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6_udp_and_multicasting.UDPMulticastClient" />
       <module name="Learning Network Programming with Java_Richard M Reese" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter5_peer_to_peer_networks.*" />
+          <option name="PATTERN" value="chapter6_udp_and_multicasting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -344,19 +271,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HttpURLConnectionExample" />
-      <item itemvalue="Application.Chapter5" />
-      <item itemvalue="Application.JDHTExample" />
-      <item itemvalue="Application.JDHTClient" />
-      <item itemvalue="Application.PastryExample" />
+      <item itemvalue="Application.UDPMulticastClient" />
+      <item itemvalue="Application.UDPDatagramMulticastServer" />
+      <item itemvalue="Application.UDPDatagramMulticastClient" />
+      <item itemvalue="Application.AudioUDPServer" />
+      <item itemvalue="Application.AudioUDPClient" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PastryExample" />
-        <item itemvalue="Application.JDHTClient" />
-        <item itemvalue="Application.JDHTExample" />
-        <item itemvalue="Application.Chapter5" />
-        <item itemvalue="Application.HttpURLConnectionExample" />
+        <item itemvalue="Application.AudioUDPClient" />
+        <item itemvalue="Application.AudioUDPServer" />
+        <item itemvalue="Application.UDPDatagramMulticastClient" />
+        <item itemvalue="Application.UDPDatagramMulticastServer" />
+        <item itemvalue="Application.UDPMulticastClient" />
       </list>
     </recent_temporary>
   </component>
@@ -396,12 +323,14 @@
       <workItem from="1545759448663" duration="5894000" />
       <workItem from="1546350073193" duration="2137000" />
       <workItem from="1546363576695" duration="11916000" />
-      <workItem from="1546414301057" duration="3038000" />
+      <workItem from="1546414301057" duration="3348000" />
+      <workItem from="1546420595700" duration="18206000" />
+      <workItem from="1546448898778" duration="4480000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122296000" />
+    <option name="totallyTimeSpent" value="145292000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
@@ -443,13 +372,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/chapter1/Chapter1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
-          <caret line="138" column="1" lean-forward="true" selection-start-line="138" selection-start-column="1" selection-end-line="138" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/Url.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -797,38 +719,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter5_peer_to_peer_networks/Chapter5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter5_peer_to_peer_networks/JDHTExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter5_peer_to_peer_networks/JDHTClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter5_peer_to_peer_networks/PastryMessage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -852,6 +742,150 @@
           <caret line="25" column="81" lean-forward="true" selection-start-line="25" selection-start-column="81" selection-end-line="25" selection-end-column="81" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5_peer_to_peer_networks/JDHTClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5_peer_to_peer_networks/JDHTExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter5_peer_to_peer_networks/Chapter5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter6_udp_and_multicasting/UDPDatagramMulticastClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="25" column="44" lean-forward="true" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter6_udp_and_multicasting/UDPDatagramMulticastServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="39" column="48" lean-forward="true" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter6_udp_and_multicasting/UDPMulticastClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1169#1170#0" expanded="true" />
+            <element signature="e#1208#1209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter6_udp_and_multicasting/UDPMulticastServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1232#1233#0" expanded="true" />
+            <element signature="e#1271#1272#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter6_udp_and_multicasting/UDPEchoClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="19" column="47" lean-forward="true" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter6_udp_and_multicasting/UDPEchoServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="24" column="66" lean-forward="true" selection-start-line="24" selection-start-column="66" selection-end-line="24" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter6_udp_and_multicasting/UDPClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="17" column="55" lean-forward="true" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1829#1830#0" expanded="true" />
+            <element signature="e#1859#1860#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter6_udp_and_multicasting/UDPServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1495#1496#0" expanded="true" />
+            <element signature="e#1525#1526#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter6_udp_and_multicasting/AudioUDPServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2129#2130#0" expanded="true" />
+            <element signature="e#2164#2165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter6_udp_and_multicasting/AudioUDPClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="58" column="13" lean-forward="true" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2594#2595#0" expanded="true" />
+            <element signature="e#2629#2630#0" expanded="true" />
           </folding>
         </state>
       </provider>
